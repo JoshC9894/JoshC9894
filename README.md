@@ -1,4 +1,6 @@
 ### Hi there 👋
+I'm Joshua Colley
+*Developer*📱 *Maker*🧑‍💻 *Designer*
 
 <!--
 **djginge94/djginge94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
